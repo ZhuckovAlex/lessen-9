@@ -1,0 +1,14 @@
+{
+  "item.lessen.fire_pot": "Fire pot",
+
+  "block.lessen.brown_planks": "Brown planks",
+  "block.lessen.brown_log": "Brown log",
+  "block.lessen.brown_wood": "Brown wood",
+  "block.lessen.brown_leaves": "Brown leaves",
+  "block.lessen.brown_sapling": "Brown sapling",
+  "block.lessen.stripped_brown_log": "Stripped brown log",
+  "block.lessen.stripped_brown_wood": "Stripped brown wood",
+
+  "itemGroup.mod_items": "My items",
+  "itemGroup.mod_blocks": "My blocks"
+}
